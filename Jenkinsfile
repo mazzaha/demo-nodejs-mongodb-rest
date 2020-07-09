@@ -5,7 +5,7 @@ pipeline {
     }
 
     environment {
-        image = "mazzarella/demo-nodejs"
+        image = "mazzarella/vm-nodejs"
         registry = "docker.io"
     }
 
