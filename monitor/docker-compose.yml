@@ -25,4 +25,4 @@ services:
     depends_on:
       - prometheus
     ports:
-      - "3000:3000"
+      - "3333:3000"
